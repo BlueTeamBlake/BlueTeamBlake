@@ -19,10 +19,10 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
 
 ## 🛠️ Featured Projects (lab walkthroughs coming soon)
-
-- **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling  
+  
 - **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection and response setup  
 - **SOC Simulators** – Simulating phishing/malware events and practicing incident response/escalation workflows
+- **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling
 - **Packet Capture Analysis** - Captured packets with WireShark while running an exploit to create new rules, block, and remove threats
 - **Red Teaming** - Infiltrated different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information.
 
