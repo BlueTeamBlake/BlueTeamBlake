@@ -17,6 +17,13 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=flat)
+![Sysinternals](https://img.shields.io/badge/Sysinternals-333366?style=flat)
+![Snort](https://img.shields.io/badge/Snort-E54B4D?style=flat)
+![Zeek](https://img.shields.io/badge/Zeek-000000?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ## 🛠️ Featured Projects (lab walkthroughs coming soon)
   
