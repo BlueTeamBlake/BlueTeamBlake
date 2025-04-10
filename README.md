@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-- 🔐 5+ years sales, trying to transition to cyber, Sec+ Certified
+- 🔐 Sec+ Certified, 5+ years sales, trying to transition to cyber
 - 🐍 Python Programmer as a hobby  
 - 🏗️ I build projects based off courses (for now)  
 - 📍 Soon to be based in Scottsdale, AZ  
