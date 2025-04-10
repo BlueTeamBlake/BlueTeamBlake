@@ -25,6 +25,8 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
+![Abuse.ch](https://img.shields.io/badge/Abuse.ch-FF0000?style=flat)
+
 
 
 
