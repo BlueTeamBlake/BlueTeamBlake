@@ -4,7 +4,8 @@
 
 - 🔐 Sec+ Certified, 5+ years sales, trying to transition to cyber
 - 🐍 Python Programmer as a hobby  
-- 🏗️ I build projects based off courses (for now)  
+- 🏗️ I build projects based off courses (for now)
+- 🧠 Active on TryHackMe Top 2%
 - 📍 Soon to be based in Scottsdale, AZ  
 
 ## 🔧 Tools & Tech
