@@ -33,5 +33,5 @@
 
 
 ---
-A bit about me, or some fun facts; I absolutely love hockey and played for 15 years competitively in AZ, I enjoy video games when I have the time and riding my motorcycle
+A bit about me, or some fun facts; I absolutely love hockey and played for 15 years competitively in AZ, I enjoy video games when I have the time and riding my motorcycle.
 
