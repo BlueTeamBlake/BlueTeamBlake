@@ -43,5 +43,5 @@
 
 
 ---
-Some fun facts; I absolutely love hockey and played for 15 years competitively before too many injuries. I'm a super geek at video games, usually ranking in top 1% fps and I have a maxed runescape account (Played since 2002), which is also where I learned about phishing, hacking and social engineering at the young age of 9...    
+Some fun facts; I absolutely love hockey and played for 15 years competitively before too many injuries. I'm a super geek at video games, usually ranking in top 1% fps and I have a maxed runescape account (Played since 2002), which is also where I learned about phishing, hacking and social engineering at a young age.    
 
