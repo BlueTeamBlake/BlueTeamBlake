@@ -33,7 +33,7 @@
 - **SOC Simulators** – Simulating phishing/malware events and practicing incident response/escalation workflows
 - **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling
 - **Packet Capture Analysis** - SNORT Packet capture while running an exploit to create new rules, block, and remove threats
-- **Red Teaming** - Infiltrated different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's on HackSmarter
+- **Red Teaming** - Infiltrated different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's
 
 
 ## 📫 Let’s Connect and follow me on my learning paths @ TryHackMe
