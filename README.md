@@ -39,7 +39,7 @@
 ## 📫 Let’s Connect and follow me on my learning paths @ TryHackMe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/blue-team-blake)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/blueteamblake)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BlueTeamBlake)
 
 
 ---
