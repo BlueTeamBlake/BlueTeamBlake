@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-- 🔐 From Sales to Cyber 
+- 🔐 From Sales to Cyber, Sec+ Certified
 - 🐍 Python Programmer as a hobby  
 - 🏗️ I build projects based off courses (for now)  
 - 📍 Soon to be based in Scottsdale, AZ  
