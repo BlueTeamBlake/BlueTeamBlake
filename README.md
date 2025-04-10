@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Blake Miller!
+# 👋 Hey there, my name is Blake!
 
 ## 🧠 About Me
 
