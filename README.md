@@ -40,7 +40,7 @@
   ## 🎯 Goals for 2025
 
 - ✅ Start a role within the field
-- ✅ Obtain SAL1 or CompTIA CySA+
+- ✅ Obtain SAL1 and/or CompTIA CySA+
 
 
 ## 📫 Let’s Connect and follow me on my learning paths
