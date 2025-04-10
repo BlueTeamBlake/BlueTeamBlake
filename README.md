@@ -37,6 +37,12 @@
 - **Red Teaming** - Infiltrate different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's and King of the Hill.
 
 
+  ## 🎯 Goals for 2025
+
+- ✅ Start a role within the field
+- ✅ Obtain SAL1 or CompTIA CySA+
+
+
 ## 📫 Let’s Connect and follow me on my learning paths
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/blue-team-blake)
