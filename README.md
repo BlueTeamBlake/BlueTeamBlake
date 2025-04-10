@@ -18,7 +18,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Projects (lab walkthroughs coming soon)
 
 - **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling  
 - **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection and response setup  
