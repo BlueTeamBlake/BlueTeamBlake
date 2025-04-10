@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-- 🔐 Sec+ Certified, 5+ years sales, trying to transition to cyber
+- 🔐 Sec+ Certified, 3+ years sales, trying to transition to cyber
 - 🐍 Python Programmer as a hobby  
 - 🏗️ I build projects based off courses (for now)
 - 🧠 Active on TryHackMe 
