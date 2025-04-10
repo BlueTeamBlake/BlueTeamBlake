@@ -34,12 +34,12 @@
 - **Red Teaming** - Infiltrated different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information.
 
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect and follow me on my learning paths @ TryHackMe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/blue-team-blake)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/blueteamblake)
 
 
 ---
-A bit about me, or some fun facts; I absolutely love hockey and played for 15 years competitively in AZ, I enjoy video games when I have the time and riding my motorcycle.
+Some fun facts; I absolutely love hockey and played for 15 years competitively in AZ. I'm a super geek at video games, usually ranking in top 1% fps and I also have a max runescape account.
 
