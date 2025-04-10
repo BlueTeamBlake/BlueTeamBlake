@@ -37,7 +37,7 @@
 - **Red Teaming** - Infiltrate different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's and King of the Hill.
 
 
-## 📫 Let’s Connect and follow me on my learning paths @ TryHackMe
+## 📫 Let’s Connect and follow me on my learning paths
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/blue-team-blake)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BlueTeamBlake)
