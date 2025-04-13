@@ -32,7 +32,7 @@
 
 
 
-## 🛠️ Featured Projects (lab walkthroughs coming soon)
+## 🛠️ Featured Projects (Some labs in repositories)
   
 - **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection and response setup  
 - **SOC Simulators** – Simulating phishing/malware events and practicing incident response/escalation workflows
