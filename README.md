@@ -27,7 +27,7 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
 ![Abuse.ch](https://img.shields.io/badge/Abuse.ch-FF0000?style=flat)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-556B2F?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mNgGAVDBwDFgImB6f//PwMxMDCQTgBScv/+/RMgNjU1Hb//jwD8y8kT/5SgoP9///9/P0tLSx88fv9/f2aMjAwcgC4nJyfs379/m5aWRrExMTGRnZxejq6mpgYGBYxsaGo4MDAyQm5vbh8fHx+eDg4Pr2NiYWC4vr7eVFRU1NDQ0f4GBgdyQkJCgoKCrAcUAAByoH4D1PwGDYAAAAASUVORK5CYII=&label=Volatility)
+![Volatility](https://img.shields.io/badge/Volatility-556B2F?style=flat&logo=data:image/png;base64)
 ![Autopsy](https://img.shields.io/badge/Autopsy-2E86C1?style=flat&logo=autopsy&logoColor=white)
 
 
