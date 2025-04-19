@@ -38,7 +38,7 @@
 ## 🛠️ Featured Projects (Some labs in repositories)
 
 
-- **PinPoint** - Python project currently in the works  
+- **PinPoint** - Hex dump aanalyzer and parser, removes not human-readable data from hex dumps and outputs the readable contents to a new text file V1.0   
 - **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection and response setup  
 - **SOC Simulators** – Simulating phishing/malware events and practicing incident response/escalation workflows
 - **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling
