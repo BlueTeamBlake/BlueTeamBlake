@@ -12,6 +12,9 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![FlareVM](https://img.shields.io/badge/FlareVM-800000?style=flat&logo=windows&logoColor=white)
+![REMnux](https://img.shields.io/badge/REMnux-DD4814?style=flat&logo=linux&logoColor=white)
+![Whonix](https://img.shields.io/badge/Whonix-5277C3?style=flat&logo=tor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
