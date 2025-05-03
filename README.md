@@ -48,10 +48,10 @@
 - **Red Teaming** - Infiltrate different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's and King of the Hill.
 
 
-  ## 🎯 Goals for 2025
+  ## 🎯 Goals for 2025 and beyond?
+  - Ultimately I want to get to SOC 3. I enjoy threat hunting, breaking apart code and doing the dirty work. 
 
-- ✅ Start a role within the field
-- ✅ Obtain SAL1 and/or CompTIA CySA+
+
 
 
 ## 📫 Let’s Connect and follow me on my learning paths
@@ -61,5 +61,5 @@
 
 
 ---
-Some fun facts; I absolutely love hockey and played for 15 years competitively before too many injuries. I'm a super geek at video games, usually ranking in top 1% fps and I have a maxed runescape account (Played since 2002), which is also where I learned about phishing, hacking and social engineering at a young age.    
+Some fun facts; I absolutely love hockey and played for 15 years competitively before too many injuries. I'm pretty good at video games, usually ranking in top 1% fps and I have a maxed runescape account (Played since 2002), which is also where I learned about phishing, hacking and social engineering at a young age.    
 
