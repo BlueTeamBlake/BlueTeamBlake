@@ -5,8 +5,7 @@
 - 🔐 Sec+ Certified, 3+ years sales, transitioning to cyber
 - 🐍 Python Programmer as a hobby  
 - 🏗️ I build projects based off courses (for now)
-- 🧠 Active on TryHackMe 
-- 📍 Soon to be based in Scottsdale, AZ  
+- 🧠 Top 1% on TryHackMe 
 
 ## 🔧 Tools & Tech
 
@@ -49,7 +48,7 @@
 
 
   ## 🎯 Goals for 2025 and beyond?
-  - Ultimately I want to get to SOC 3. I enjoy threat hunting, breaking apart code and doing the dirty work. 
+  - Full fledged analysis, DFIR, Malware, and Threat Hunting 
 
 
 
