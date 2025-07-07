@@ -1,11 +1,9 @@
-# 👋 Hey there, my name is Blake!
+# Hi there, my name is Blake!
 
-## 🧠 About Me
-
-- 🔐 Sec+ Certified, 3+ years sales, transitioning to cyber
-- 🐍 Python Programmer as a hobby  
-- 🏗️ I build projects based off courses (for now)
-- 🧠 Top 1% on TryHackMe 
+## About Me
+- Sec+ Certified, Currently working in SOC. 
+- Python Programmer, scripting is my specialty. 
+- Top 1% on TryHackMe Play CTF's
 
 ## 🔧 Tools & Tech
 
@@ -34,23 +32,14 @@
 
 
 
-
-
-
-## 🛠️ Featured Projects (Some labs in repositories)
+## 🛠️ Projects (Some labs in repositories)
 
   
-- **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection and response setup  
+- **Wazuh MDR** – Tracking exploitation attempts and endpoint logs in a Wazuh-managed detection in my home lab
 - **SOC Simulators** – Simulating phishing/malware events and practicing incident response/escalation workflows
 - **Ghidra Malware Analysis Lab** – Static reverse engineering using Ghidra for malware behavior profiling
 - **Packet Capture Analysis** - SNORT Packet capture while running an exploit to create new rules, block, and remove threats
 - **Red Teaming** - Infiltrate different systems crafting different exploits and creating payloads to gain access, escalate privlidges, and extract information through CTF's and King of the Hill.
-
-
-  ## 🎯 Goals for 2025 and beyond?
-  - Full fledged analysis, DFIR, Malware, and Threat Hunting 
-
-
 
 
 ## 📫 Let’s Connect and follow me on my learning paths
