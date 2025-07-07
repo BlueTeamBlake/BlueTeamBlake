@@ -32,3 +32,5 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BlueTeamBlake) 
 
+For inquires or send me malware @
+blueteamblake@gmail.com
