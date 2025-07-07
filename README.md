@@ -30,7 +30,7 @@
 ![Volatility](https://img.shields.io/badge/Volatility-556B2F?style=flat&logo=data:image/png;base64)
 ![Autopsy](https://img.shields.io/badge/Autopsy-2E86C1?style=flat&logo=autopsy&logoColor=white)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BlueTeamBlake) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0x626d) 
 
 For inquires or send me malware @
 blueteamblake@gmail.com
