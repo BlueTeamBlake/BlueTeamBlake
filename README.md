@@ -4,6 +4,7 @@
 - Sec+ Certified, Currently working in SOC. 
 - Python Programmer, scripting is my specialty. 
 - Top 1% on TryHackMe Play CTF's
+- Creator of QueryCrush - IoC Threat Hunter
 
 ## 🔧 Tools & Tech
 
