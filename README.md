@@ -2,10 +2,10 @@
 
 ## About Me [![TryHackMe](https://img.shields.io/badge/TryHackMe-E6532E?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0x626d) 
 
+- Creator of QueryCrush IoC threat hunter and threat hunting framework
 - Sec+ Certified, Currently working in SOC. 
 - Python Programmer, scripting is my specialty. 
 - Top 1% on TryHackMe Play CTF's
-- Creator of QueryCrush - IoC Threat Hunter
 - Crowdstrike Falcon Responder
 - Siems/XDR/Soars used: Sentinel/SentinelOne, Defender, Exabeam, Cortex, Netwitness, Elastic
 
