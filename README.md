@@ -1,6 +1,6 @@
 # Hi there, my name is Blake! I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis
 
-## About Me [![BlueTeamBlake]](https://www.blueteamblake.com) 
+## About Me [Foun[BlueTeamBlake]](https://www.blueteamblake.com) 
 
 - Creator of QueryCrush IoC threat hunter and threat hunting framework
 - Sec+ Certified, Currently scripting tools for SOC 
