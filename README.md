@@ -1,11 +1,12 @@
 # Hi there, my name is Blake! I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis
 
-## About Me [Foun[BlueTeamBlake]](https://www.blueteamblake.com) 
+## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
 - Creator of QueryCrush IoC threat hunter and threat hunting framework
-- Sec+ Certified, Currently scripting tools for SOC 
+- SE Certified, Currently scripting tools for SOC
+- Query Language Conniseur
 - Top 1% on TryHackMe Play CTF's
-- Changing the CyberSecurity space
+- Changing the CyberSecurity Scene
 
 ## 🔧 Tools & Tech
 
@@ -21,7 +22,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
 ![Volatility](https://img.shields.io/badge/Volatility-556B2F?style=flat&logo=data:image/png;base64)
-![Autopsy](https://img.shields.io/badge/Autopsy-2E86C1?style=flat&logo=autopsy&logoColor=white)
 
 
 For inquires or send me malware @
