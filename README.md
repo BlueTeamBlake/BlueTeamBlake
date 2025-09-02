@@ -1,4 +1,4 @@
-# Hi there, my name is Blake! I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis
+# Greetings, my name is Blake! I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
