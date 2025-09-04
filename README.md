@@ -6,7 +6,7 @@
 - SE Certified, Currently scripting tools for SOC
 - Query Language Conniseur
 - Top 1% on TryHackMe Play CTF's
-- Changing the CyberSecurity Scene
+- Reformed
 
 ## 🔧 Tools & Tech
 
