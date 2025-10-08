@@ -2,7 +2,7 @@
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
-- Currently working as a Product Dev Engineer
+- Currently working in Dev Engineering
 - Creator of the most accurate threat hunting framework
 - Python Scripter
 - SE Certified, CompTIA SEC+
