@@ -2,8 +2,10 @@
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
-- Creator of QueryCrush IoC threat hunter and threat hunting framework
-- SE Certified, Currently scripting tools for SOC
+- Currently working as a Product Dev Engineer
+- Creator of Athena IoC threat hunter and threat hunting framework
+- Python Scripter
+- SE Certified, CompTIA SEC+
 - Query Language Conniseur
 - Top 1% on TryHackMe Play CTF's
 - Reformed
