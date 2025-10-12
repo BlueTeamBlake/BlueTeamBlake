@@ -2,12 +2,12 @@
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
-- Currently working in Dev Engineering
-- Creator of the most accurate threat hunting framework
+- Dev Engineer
+- Creator of Athena
 - Python Scripter
 - SE Certified, CompTIA SEC+
 - Query Language Conniseur
-- Top 1% on TryHackMe Play CTF's
+- Top 1% on THM
 - Reformed
 
 ## 🔧 Tools & Tech
@@ -23,7 +23,3 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=flat)
 ![Volatility](https://img.shields.io/badge/Volatility-556B2F?style=flat&logo=data:image/png;base64)
-
-
-For inquires or send me malware @
-blueteamblake@gmail.com
