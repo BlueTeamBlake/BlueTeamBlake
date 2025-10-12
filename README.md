@@ -1,4 +1,4 @@
-# Welcome to BlueTeamBlake's personal GitHub. I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis
+# Welcome to my personal GitHub. I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malware Analysis.
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
