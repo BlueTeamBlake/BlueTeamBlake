@@ -4,7 +4,7 @@ I specialize in Threat Hunting, Python Scripting, Reverse Engineering and Malwar
 
 ## About Me: [[BlueTeamBlake]](https://www.blueteamblake.com) 
 
-- Threat Detection Engineer
+- Product Dev Engineer
 - Python Scripter
 - SE Certified, CompTIA SEC+
 - Query Language Conniseur
